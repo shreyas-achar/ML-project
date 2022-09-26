@@ -6,16 +6,16 @@ The objective is to accurately predict insurance costs based on people’s data,
 
 We got these features:
 
-age: age of the primary beneficiary
+-age: age of the primary beneficiary
 
-sex: insurance contractor gender, female, male
+-sex: insurance contractor gender, female, male
 
-bmi: Body Mass Index, providing an understanding of body weights that are relatively high or low relative to height, objective index of body weight (kg/m²) using the ratio of height to weight, ideally 18.5 to 24.9
+-bmi: Body Mass Index, providing an understanding of body weights that are relatively high or low relative to height, objective index of body weight (kg/m²) using the ratio of height to weight, ideally 18.5 to 24.9
 
-children: number of children covered by health insurance, number of dependents
+-children: number of children covered by health insurance, number of dependents
 
-smoker: smoking or not
+-smoker: smoking or not
 
-region: the beneficiary’s residential area in the US, northeast, southeast, southwest, northwest.
+-region: the beneficiary’s residential area in the US, northeast, southeast, southwest, northwest.
 
-charges: individual medical costs billed by health insurance
+-charges: individual medical costs billed by health insurance

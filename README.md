@@ -1,5 +1,7 @@
 # ML-project
 https://healthinsurance-shreyas.herokuapp.com/
+
+
 The objective is to accurately predict insurance costs based on people’s data, including age, Body Mass Index, smoking or not, etc.
 
 We got these features:
